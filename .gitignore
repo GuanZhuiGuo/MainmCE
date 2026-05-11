@@ -1,0 +1,23 @@
+# Manim
+media/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.manim/
+tex/
+logs/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Python
+.venv/
+venv/
+env/
+*.egg-info/
+build/
+dist/
